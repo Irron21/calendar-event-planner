@@ -1,8 +1,6 @@
 from datetime import datetime
 import re
 import json
-from tabulate import tabulate
-
 
 class Calendar:
     def __init__(self):
