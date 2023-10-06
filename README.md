@@ -1,7 +1,7 @@
 
 # Calendar/Event Planner
 
-This is a simple command-line calendar and event planner program, developed as the final project for CS50P (Introdduction to Programming with Python) offered by Harvard University. It allows you to manage your events, add, edit, view, and delete them on specific dates.
+This is a simple command-line calendar and event planner program, developed as the final project for CS50P (Introduction to Programming with Python) offered by Harvard University. It allows you to manage your events, add, edit, view, and delete them on specific dates.
 
 ## [Video Demo](https://youtu.be/hs0brxo5XFM)
 
